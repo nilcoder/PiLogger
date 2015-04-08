@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Test manual entry
+Test manual entry again
 """
 
 import spidev
