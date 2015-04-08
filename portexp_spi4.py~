@@ -1,8 +1,4 @@
 #!/usr/bin/python
-"""
-Test manual entry
-"""
-
 import spidev
 import time
 import def_1 #MCP23s17 Definitions
